@@ -8,7 +8,7 @@ ic = ImageCreator(tz='Asia/Tashkent', locales='ru_RU', theme=Theme(
     add_date=False,
     background='logite_soft.png',
     background_behavior='static',
-    top_margin=-100
+    top_margin=-90
 )
                   )
 ic.img_generator(preview=True)
