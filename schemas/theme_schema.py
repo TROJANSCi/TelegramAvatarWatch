@@ -8,8 +8,8 @@ class Theme:
     font1_size: Optional[float] = field(default=100)
     font1_color: Optional[tuple | str] = field(default='#169e4d')
 
-    font2: Optional[str] = field(default=None)
-    font2_size: Optional[float] = field(default=14)
+    font2: Optional[str] = field(default='DejaVuSansMono.ttf')
+    font2_size: Optional[float] = field(default=18)
     font2_color: Optional[tuple | str] = field(default='#ffffff')
 
     add_date: Optional[bool] = field(default=False)
