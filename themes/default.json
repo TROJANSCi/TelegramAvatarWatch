@@ -1,0 +1,16 @@
+{
+  "font1": "DigitalNumbers-Regular.ttf",
+  "font1_size": 100,
+  "font1_color": "#169e4d",
+  "font2": "DejaVuSansMono.ttf",
+  "font2_size": 18,
+  "font2_color": "#ffffff",
+  "add_date": false,
+  "date_format": "%a, %d %B",
+  "background": "default.png",
+  "background_behavior": "static",
+  "top_margin": 0,
+  "bottom_margin": 0,
+  "left_margin": 0,
+  "right_margin": 0
+}

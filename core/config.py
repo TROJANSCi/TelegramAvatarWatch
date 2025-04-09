@@ -8,3 +8,5 @@ class Configuration:
     fonts_path: Path = app_path / 'fonts'
     themes_path: Path = app_path / 'themes'
     background_path: Path = app_path / 'background'
+    user_config: Path = app_path / 'user.json'
+
